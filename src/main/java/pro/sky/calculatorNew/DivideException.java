@@ -9,4 +9,4 @@ public class DivideException extends IllegalArgumentException {
         super("Нельзя делить на ноль");
     }
 }
-//
+///
